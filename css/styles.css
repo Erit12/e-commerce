@@ -5,12 +5,15 @@ body {
   color: #999;
   font-family: "Lexend", Arial, Helvetica, sans-serif;
   margin: 0;
+    /*NEW BG COLOR ON BODY*/
+  background-color: #f4f4f4;
 }
 
 .header {
   width: 100%;
   padding: 10px 50px;
-  background-color: #e7e7e7;
+    /*NEW HEADER BG COLOR*/
+  background-color: #b1c0e9;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -35,16 +38,20 @@ body {
 
 .header__img--cart {
   width: 80%;
+   /*NEW BOX SHADOW ON CART MENU*/
+  box-shadow: -6px -1px 10px 2px rgba(0, 0, 0, 0.3);
 }
 
 .banner {
   width: 100%;
   padding: 80px 0;
   text-align: center;
-  background-image: url("../img/banner.jpg");
+   /*NEW BANNER PICTURE*/
+  background-image: url("../img/new-banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  color: #ffffff;
+   /*NEW COLOR ON BANNER*/
+  color: #312f2f;
   background-position-y: 60%;
 }
 
