@@ -4,8 +4,7 @@
 
 Este proyecto representa mi punto de partida en el desarrollo web, enfocado en una estructura semántica correcta y un diseño limpio.
 
-https://brandemia.org/contenido/subidas/2022/04/adidas-5-1024x551.jpg
-_Nota: Reemplaza la URL de la imagen con una captura de pantalla de tu proyecto._
+<img alt="E-commerce Logo: Adidas" src="https://brandemia.org/contenido/subidas/2022/04/adidas-5-1024x551.jpg" />
 
 ## ✨ Características Principales
 
